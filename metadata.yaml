@@ -29,6 +29,8 @@ creator:
     gutenberg_agent_id: '36954'
     url: http://www.gutenberg.org/2009/agents/36954
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35968#A-Check-List-of-the-Birds-of-Idaho
 gutenberg_bookshelf:
 - Animals-Wild-Birds
 - Animal
