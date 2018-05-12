@@ -1,0 +1,48 @@
+_repo: A-Check-List-of-the-Birds-of-Idaho_35968
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Arvey, M. Dale (Martin Dale)
+    birthdate: 1915
+    gutenberg_agent_id: '37082'
+    url: http://www.gutenberg.org/2009/agents/37082
+  editors:
+  - agent_name: Lane, Henry Higgins
+    alias: Lane, H. H. (Henry Higgins)
+    birthdate: 1878
+    deathdate: 1965
+    gutenberg_agent_id: '38005'
+    url: http://www.gutenberg.org/2009/agents/38005
+  - agent_name: Hall, E. Raymond (Eugene Raymond)
+    alias: Hall, Eugene Raymond
+    birthdate: 1902
+    deathdate: 1986
+    gutenberg_agent_id: '26108'
+    url: http://www.gutenberg.org/2009/agents/26108
+  - agent_name: Taylor, Edward Harrison
+    alias: Taylor, Edward H. (Edward Harrison)
+    birthdate: 1889
+    deathdate: 1978
+    gutenberg_agent_id: '36954'
+    url: http://www.gutenberg.org/2009/agents/36954
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Birds
+- Animal
+gutenberg_issued: '2011-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35968'
+  lccn: '48045036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- Idaho'
+- !lcc 'QH'
+title: A Check-List of the Birds of Idaho
+url: http://www.gutenberg.org/ebooks/35968
